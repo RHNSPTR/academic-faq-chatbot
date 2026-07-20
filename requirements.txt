@@ -1,0 +1,10 @@
+# =============================================================================
+#   Requirements - AcademiBot: Chatbot FAQ Akademik
+# =============================================================================
+
+# Web Framework
+Flask>=3.0.0
+
+# Machine Learning & NLP
+scikit-learn>=1.5.0
+numpy>=1.26.0
