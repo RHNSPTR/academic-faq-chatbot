@@ -259,6 +259,6 @@ Project ini dibuat untuk keperluan akademik sebagai Tugas UAS mata kuliah **Natu
 
 **AcademiBot** — *Asisten Virtual untuk FAQ Akademik & Reservasi Konsultasi Dosen* 🎓
 
-Dibuat dengan ❤️ oleh Kelompok UAS NLP — Universitas Mercu Buana
+Dibuat dengan ❤️ oleh Kelompok 12 NLP — Universitas Mercu Buana
 
 </div>
