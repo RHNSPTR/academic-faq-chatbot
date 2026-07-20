@@ -124,5 +124,77 @@
     "session_id": "session_1784573973213_p2kcsnbtr",
     "user": "mulai",
     "bot": "Halo! 👋 Selamat datang di AcademiBot. Saya siap membantu Anda seputar akademik kampus. Silakan tanyakan tentang KRS, sidang tugas akhir, atau jadwalkan bimbingan dosen!"
+  },
+  {
+    "timestamp": "2026-07-21 02:29:49",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Halo",
+    "bot": "Halo! 👋 Selamat datang di AcademiBot. Saya siap membantu Anda seputar akademik kampus. Silakan tanyakan tentang KRS, sidang tugas akhir, atau jadwalkan bimbingan dosen!"
+  },
+  {
+    "timestamp": "2026-07-21 02:29:56",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Halo",
+    "bot": "Halo! 👋 Selamat datang di AcademiBot. Saya siap membantu Anda seputar akademik kampus. Silakan tanyakan tentang KRS, sidang tugas akhir, atau jadwalkan bimbingan dosen!"
+  },
+  {
+    "timestamp": "2026-07-21 02:29:58",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Bagaimana cara mengisi KRS?",
+    "bot": "📋 **Informasi Pengisian KRS:**\n\n• **Jadwal:** Pengisian KRS biasanya dibuka H-7 sebelum perkuliahan dimulai. Cek kalender akademik untuk tanggal pastinya.\n• **Portal:** Akses melalui portal akademik mahasiswa (SIAKAD).\n• **Batas SKS:** Maksimal SKS ditentukan berdasarkan IPS semester lalu:\n  - IPS ≥ 3.00 → maks 24 SKS\n  - IPS 2.50 - 2.99 → maks 21 SKS\n  - IPS < 2.50 → maks 18 SKS\n• **Persetujuan:** KRS harus disetujui oleh Dosen Wali.\n• **KRS Susulan:** Hubungi Bagian Akademik dengan surat keterangan.\n\nAda pertanyaan lain seputar KRS? 😊"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:08",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Apa syarat pendaftaran sidang?",
+    "bot": "🎓 **Informasi Sidang Tugas Akhir:**\n\n• **Syarat Umum:**\n  - Telah lulus semua mata kuliah wajib (minimal 140 SKS).\n  - Sudah menyelesaikan Seminar Proposal.\n  - Mendapat persetujuan dari Dosen Pembimbing.\n\n• **Berkas yang Diperlukan:**\n  - Formulir pendaftaran sidang\n  - Transkrip nilai sementara\n  - Kartu bimbingan yang sudah ditandatangani\n  - Laporan tugas akhir (3 rangkap)\n  - Bukti bebas tanggungan perpustakaan\n  - Surat keterangan bebas administrasi\n\n• **Pendaftaran:** Melalui Bagian Akademik atau portal online.\n• **Dress Code:** Kemeja rapi dan jas almamater.\n\nAda pertanyaan lain seputar sidang? 📝"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:20",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Saya ingin reservasi bimbingan dosen",
+    "bot": "👨‍🏫 Dengan dosen siapa Anda ingin menjadwalkan bimbingan?\n\n_(Contoh: Pak Andi, Bu Sari, Dr. Ahmad)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:23",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "pak andi",
+    "bot": "📅 Hari atau tanggal berapa Anda ingin bimbingan dengan **Pak Andi**?\n\n_(Contoh: Senin, Rabu, tanggal 15 Juli, atau besok)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:30",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "15 juli",
+    "bot": "📅 Hari atau tanggal berapa Anda ingin bimbingan dengan **Pak Andi**?\n\n_(Contoh: Senin, Rabu, tanggal 15 Juli, atau besok)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:41",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "Saya ingin reservasi bimbingan dosen",
+    "bot": "👨‍🏫 Dengan dosen siapa Anda ingin menjadwalkan bimbingan?\n\n_(Contoh: Pak Andi, Bu Sari, Dr. Ahmad)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:45",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "pak andi",
+    "bot": "📅 Hari atau tanggal berapa Anda ingin bimbingan dengan **Pak Andi**?\n\n_(Contoh: Senin, Rabu, tanggal 15 Juli, atau besok)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:30:49",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "tanggal 15 juli",
+    "bot": "🕐 Jam berapa Anda ingin bimbingan pada hari **15 Juli**?\n\n_(Contoh: 10:00, jam 2 siang, pukul 14.00)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:31:02",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "jam 2 siang",
+    "bot": "📋 **Konfirmasi Reservasi Bimbingan:**\n\n• 👨‍🏫 Dosen: **Pak Andi**\n• 📅 Hari/Tanggal: **15 Juli**\n• 🕐 Jam: **14:00**\n\nApakah Anda yakin ingin menjadwalkan bimbingan dengan **Pak Andi** pada hari **15 Juli** jam **14:00**?\n\n_(Ketik: **Ya** / **Tidak**)_"
+  },
+  {
+    "timestamp": "2026-07-21 02:31:06",
+    "session_id": "session_1784573973213_p2kcsnbtr",
+    "user": "ya",
+    "bot": "✅ **Reservasi Berhasil Disimpan!**\n\n📌 **Detail Reservasi:**\n• Dosen: Pak Andi\n• Hari/Tanggal: 15 Juli\n• Jam: 14:00\n\nSilakan datang tepat waktu. Semoga bimbingannya lancar! 🎓"
   }
 ]
